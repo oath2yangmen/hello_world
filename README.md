@@ -1,2 +1,3 @@
 # hello_world
-github_trial
+hi,liujie here! 
+The weather of today is terrible.
